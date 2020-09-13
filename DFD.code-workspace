@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\dezineworld"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "DFD"
+    }
+}
